@@ -11,7 +11,7 @@ When a user presses a key that matches one of the letters displayed in the `div`
 * find the KeyCode of each key on [keycode.info](https://keycode.info/)
 
 ### Screenshot
-![Drum Kit]()
+![Drum Kit](https://github.com/anastassiatsv/JavaScript-Drum-Kit/blob/master/screenshot.png)
 
 
 
